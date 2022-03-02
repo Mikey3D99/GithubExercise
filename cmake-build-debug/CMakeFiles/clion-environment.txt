@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@C:\Users\wlodi\mingw64
+Options: 
+
+Options:

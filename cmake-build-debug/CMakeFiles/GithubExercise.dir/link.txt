@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\GithubExercise.dir/objects.a
+C:\Users\wlodi\mingw64\bin\ar.exe cr CMakeFiles\GithubExercise.dir/objects.a @CMakeFiles\GithubExercise.dir\objects1.rsp
+C:\Users\wlodi\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\GithubExercise.dir/objects.a -Wl,--no-whole-archive -o GithubExercise.exe -Wl,--out-implib,libGithubExercise.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GithubExercise.dir\linklibs.rsp
